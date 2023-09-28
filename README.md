@@ -1,2 +1,2 @@
 # intro
-c++ intro "Hello World"
+c++ intro 
